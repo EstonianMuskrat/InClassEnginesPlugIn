@@ -1,0 +1,10 @@
+﻿  GameObject.cpp
+  Main.cpp
+  Wrapper.cpp
+     Creating library C:\Users\krist\source\repos\GameEngineInClassPlugIn\x64\Release\GameEngineInClassPlugIn.lib and object C:\Users\krist\source\repos\GameEngineInClassPlugIn\x64\Release\GameEngineInClassPlugIn.exp
+  Generating code
+  0 of 12 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameEngineInClassPlugIn.vcxproj -> C:\Users\krist\source\repos\GameEngineInClassPlugIn\x64\Release\GameEngineInClassPlugIn.dll
